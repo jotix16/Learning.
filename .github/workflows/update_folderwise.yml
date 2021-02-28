@@ -20,9 +20,9 @@ jobs:
       run: |-
         git config --global user.email "readme-bot@example.com"
         git config --global user.name "README-bot"
-        git push --set-upstream origin folderwise2
         os.system('rm *.md')
         git branch folderwise2
+        git push --set-upstream origin folderwise2
         mv .folderwise_organization/extract.py
         python extract.py
         git add -A || git commit -a -m "Update folderwise"
