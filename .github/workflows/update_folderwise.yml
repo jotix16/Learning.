@@ -20,7 +20,6 @@ jobs:
       run: |-
         git config --global user.email "readme-bot@example.com"
         git config --global user.name "README-bot"
-        os.system('rm *.md')
         git branch folderwise2
         git push --set-upstream origin folderwise2
         mv .folderwise_organization/extract.py
