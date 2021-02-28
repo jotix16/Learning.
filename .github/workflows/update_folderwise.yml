@@ -22,7 +22,7 @@ jobs:
         git branch folderwise
         git checkout folderwise
         git merge master
-        python folderwise_organization/extract.py
+        python .folderwise_organization/extract.py
         git add -A
         git commit -a -m "Update folderwise"
     - name: Push changes
