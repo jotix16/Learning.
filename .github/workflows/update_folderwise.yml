@@ -26,5 +26,8 @@ jobs:
         mv .folderwise_organization/extract.py
         python extract.py
         git add -A || git commit -a -m "Update folderwise"
-        git push
-
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
