@@ -1,0 +1,125 @@
+
+### Be able to implement models in scikit-learn
+- [ ] [Article: Stacking made easy with Sklearn](https://www.maartengrootendorst.com/blog/stacking/)
+- [ ] [Calmcode: human-learn](https://calmcode.io/human-learn/introduction.html)
+- [ ] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+- [ ] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
+- [ ] [Datacamp: Introduction to Linear Modeling in Python](https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python)
+- [ ] [Datacamp: Linear Classifiers in Python](https://www.datacamp.com/courses/linear-classifiers-in-python)
+- [ ] [Datacamp: Generalized Linear Models in Python](https://www.datacamp.com/courses/generalized-linear-models-in-python)
+- [ ] [Pluralsight: Building Machine Learning Models in Python with scikit-learn](https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models)
+- [ ] [Video: human learn](https://calmcode.io/human-learn/introduction.html)
+- [ ] [Youtube: Applied Machine Learning 2020](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
+	- [ ] [Channel Intro - Applied Machine Learning](https://www.youtube.com/watch?v=d79mzijMAw0) `0:01:28`
+	- [ ] [Applied ML 2020 - 01 Introduction](https://www.youtube.com/watch?v=rbvpiPJuK64) `1:16:01`
+	- [ ] [Applied ML 2020 - 02 Visualization and matplotlib](https://www.youtube.com/watch?v=OW3oco7nlV4) `1:07:30`
+	- [ ] [Applied ML 2020 - 03 Supervised learning and model validation](https://www.youtube.com/watch?v=7_YzyMYC2zM) `1:12:00`
+	- [ ] [Applied ML 2020 - 04 - Preprocessing](https://www.youtube.com/watch?v=XpOBSaktb6s) `1:07:40`
+	- [ ] [Applied ML 2020 - 05 - Linear Models for Regression](https://www.youtube.com/watch?v=-OOsfj5Revo) `1:06:54`
+	- [ ] [Applied ML 2020 - 06 - Linear Models for Classification](https://www.youtube.com/watch?v=_dqBhUrq09U) `1:07:50`
+	- [ ] [Applied ML 2020 - 07 - Decision Trees and Random Forests](https://www.youtube.com/watch?v=nomd5ylZ2dw) `1:07:58`
+	- [ ] [Applied ML 2020 - 08 - Gradient Boosting](https://www.youtube.com/watch?v=yrTW5YTmFjw) `1:02:12`
+	- [ ] [Applied ML 2020 - 09 - Model Evaluation and Metrics](https://www.youtube.com/watch?v=trg3YkCsjqE) `1:18:23`
+	- [ ] [Applied ML 2020 - 10 - Calibration, Imbalanced data](https://www.youtube.com/watch?v=w3OPq0V8fr8) `1:16:14`
+	- [ ] [Applied ML 2020 - 11 - Model Inspection and Feature Selection](https://www.youtube.com/watch?v=FDhyS6Xjxa8) `1:15:15`
+	- [ ] [Applied ML 2020 - 12 - AutoML (plus some feature selection)](https://www.youtube.com/watch?v=bmBezdqHTAg) `1:25:38`
+	- [ ] [Applied ML 2020 - 13 - Dimensionality reduction](https://www.youtube.com/watch?v=CrFOGyU32PM) `1:30:34`
+	- [ ] [Applied ML 2020 - 14 - Clustering and Mixture Models](https://www.youtube.com/watch?v=HFioJ62H7dM) `1:26:33`
+	- [ ] [Applied ML 2020 - 15 - Working with Text Data](https://www.youtube.com/watch?v=A8yDjNsUQJA) `1:27:08`
+	- [ ] [Applied ML 2020 - 16 - Topic models for text data](https://www.youtube.com/watch?v=xdmFx4-3Ukw) `1:18:34`
+	- [ ] [Applied ML 2020 - 17 - Word vectors and document embeddings](https://www.youtube.com/watch?v=xgjnlGBpLUs) `1:03:04`
+	- [ ] [Applied ML 2020 - 18 - Neural Networks](https://www.youtube.com/watch?v=CRRPLlgYWZw) `1:19:36`
+	- [ ] [Applied ML 2020 - 19 - Keras and Convolutional neural nets](https://www.youtube.com/watch?v=PP7Hr3tGbIo) `1:16:01`
+	- [ ] [Applied ML 2020 - 20 - Advanced neural networks](https://www.youtube.com/watch?v=2FNmbX901r0) `1:36:28`
+	- [ ] [Applied ML 2020 - 21 - Time Series and Forecasting](https://www.youtube.com/watch?v=GVGEnaJsuu8) `1:12:36`
+- [ ] [Youtube: dabl: Automatic Machine Learning with a Human in the Loop](https://www.youtube.com/watch?v=TQnxH90PqFc&list=PLYx7XA2nY5GejOB1lsvriFeMytD1-VS1B&index=2&t=0s) `00:25:43`
+
+### Be able to implement models in Tensorflow and Keras
+- [ ] [Coursera: Introduction to Tensorflow](https://www.coursera.org/learn/introduction-tensorflow)
+- [ ] [Coursera: Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+- [ ] [Coursera: Getting Started With Tensorflow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2)
+- [ ] [Coursera: Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2)
+- [ ] [Deeplizard: Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
+- [ ] [Book: Deep Learning with Python (Page: 276)](https://www.manning.com/books/deep-learning-with-python)
+- [ ] [Datacamp: Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+- [ ] [Datacamp: Convolutional Neural Networks for Image Processing](https://www.datacamp.com/courses/convolutional-neural-networks-for-image-processing)
+- [ ] [Datacamp: Introduction to TensorFlow in Python](https://www.datacamp.com/courses/introduction-to-tensorflow-in-python)
+- [ ] [Datacamp: Introduction to Deep Learning with Keras](https://www.datacamp.com/courses/deep-learning-with-keras-in-python)
+- [ ] [Datacamp: Advanced Deep Learning with Keras](https://www.datacamp.com/courses/advanced-deep-learning-with-keras-in-python)
+- [ ] [Google: Intro to Tensorflow](https://www.coursera.org/learn/intro-tensorflow)
+- [ ] [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [ ] [Pluralsight: Deep Learning with Keras](https://www.pluralsight.com/courses/keras-deep-learning)
+- [ ] [Udacity: Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+
+### Be able to implement models in PyTorch
+- [ ] [Article: Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)
+- [ ] [Article: An introduction to PyTorch Lightning with comparisons to PyTorch](https://amaarora.github.io/2020/07/12/oganized-pytorch.html)
+- [ ] [Article: Scaling Logistic Regression Via Multi-GPU/TPU Training](https://towardsdatascience.com/scaling-logistic-regression-for-multi-gpu-tpu-training-b4898d5049ff)
+- [ ] [Article: PyTorch Lightning Bolts — From Linear, Logistic Regression on TPUs to pre-trained GANs](https://medium.com/pytorch/pytorch-lightning-bolts-from-boosted-regression-on-tpus-to-pre-trained-gans-5cebdb1f99fe)
+- [ ] [Article: Keeping Up with PyTorch Lightning and Hydra](https://towardsdatascience.com/keeping-up-with-pytorch-lightning-and-hydra-31e8ed70b2cc)
+- [ ] [Article: PyTorch Lightning 0.9 — synced BatchNorm, DataModules and final API!](https://medium.com/pytorch/pytorch-lightning-0-9-synced-batchnorm-datamodules-and-final-api-aae885398a9d)
+- [ ] [Article: PyTorch Lightning: Metrics](https://medium.com/pytorch/pytorch-lightning-metrics-35cb5ab31857)
+- [ ] [Article: PyTorch Multi-GPU Metrics Library and More in PyTorch Lightning 0.8.1](https://medium.com/pytorch/pytorch-multi-gpu-metrics-and-more-in-pytorch-lightning-0-8-1-b7cadd04893e)
+- [ ] [Article: 7 Tips To Maximize PyTorch Performance](https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259)
+- [ ] [Article: From PyTorch to PyTorch Lightning — A gentle introduction](https://towardsdatascience.com/from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09)
+- [ ] [Article: Converting From Keras To PyTorch Lightning](https://towardsdatascience.com/converting-from-keras-to-pytorch-lightning-be40326d7b7d)
+- [ ] [Article: How Wadhwani AI Uses PyTorch To Empower Cotton Farmers](https://medium.com/pytorch/how-wadhwani-ai-uses-pytorch-to-empower-cotton-farmers-14397f4c9f2b)
+- [ ] [Article: PyTorch Loss Functions: The Ultimate Guide](https://neptune.ai/blog/pytorch-loss-functions)
+- [ ] [Article: Supercharge your Training with Pytorch Lightning + Weights & Biases](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/pytorch-lightning/Supercharge_your_Training_with_Pytorch_Lightning_%2B_Weights_%26_Biases.ipynb)
+- [ ] [Article: Sharded: A New Technique To Double The Size Of PyTorch Models](https://towardsdatascience.com/sharded-a-new-technique-to-double-the-size-of-pytorch-models-3af057466dba)
+- [ ] [Article: Introducing PyTorch Lightning Sharded: Train SOTA Models, With Half The Memory](https://seannaren.medium.com/introducing-pytorch-lightning-sharded-train-sota-models-with-half-the-memory-7bcc8b4484f2)
+- [ ] [Article: Transform your ML-model to Pytorch with Hummingbird](https://www.maartengrootendorst.com/blog/humming/)
+- [ ] [Article: Distributed model training in PyTorch using DistributedDataParallel](https://spell.ml/blog/pytorch-distributed-data-parallel-XvEaABIAAB8Ars0e)
+- [ ] [Article: Taming LSTMs: Variable-sized mini-batches and why PyTorch is good for your health](https://towardsdatascience.com/taming-lstms-variable-sized-mini-batches-and-why-pytorch-is-good-for-your-health-61d35642972e)
+- [ ] [Article: Pad pack sequences for Pytorch batch processing with DataLoader](https://suzyahyah.github.io/pytorch/2019/07/01/DataLoader-Pad-Pack-Sequence.html)
+- [ ] [Article: Understanding Bidirectional RNN in PyTorch](https://towardsdatascience.com/understanding-bidirectional-rnn-in-pytorch-5bd25a5dd66)
+- [ ] [Article: But what are PyTorch DataLoaders really?](https://www.scottcondron.com/jupyter/visualisation/audio/2020/12/02/dataloaders-samplers-collate.html)
+- [ ] [Article: How to Build a Streaming DataLoader with PyTorch](https://medium.com/speechmatics/how-to-build-a-streaming-dataloader-with-pytorch-a66dd891d9dd)
+- [ ] [Article: Tricks for training PyTorch models to convergence more quickly](https://spell.ml/blog/pytorch-training-tricks-YAnJqBEAACkARhgD)
+- [ ] [Article: The One PyTorch Trick Which You Should Know](https://towardsdatascience.com/the-one-pytorch-trick-which-you-should-know-2d5e9c1da2ca)
+- [ ] [Article: A developer-friendly guide to model pruning in PyTorch](https://spell.ml/blog/model-pruning-in-pytorch-X9pXQRAAACIAcH9h)
+- [ ] [Article: A developer-friendly guide to model quantization with PyTorch](https://spell.ml/blog/pytorch-quantization-X8e7wBAAACIAHPhT)
+- [ ] [Article: Distributed model training in PyTorch using DistributedDataParallel](https://spell.ml/blog/pytorch-distributed-data-parallel-XvEaABIAAB8Ars0e)
+- [ ] [Article: A developer-friendly guide to mixed precision training with PyTorch](https://spell.ml/blog/mixed-precision-training-with-pytorch-Xuk7YBEAACAASJam)
+- [ ] [Article: Fit More and Train Faster With ZeRO via DeepSpeed and FairScale](https://huggingface.co/blog/zero-deepspeed-fairscale)
+- [ ] [Article: Faster Deep Learning Training with PyTorch – a 2021 Guide](https://efficientdl.com/faster-deep-learning-in-pytorch-a-guide/)
+- [ ] [Article: EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)
+- [ ] [Notebook: Tensor Arithmetic](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks/1-Pytorch-Introduction.ipynb)
+- [ ] [Notebook: Autograd](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks//2-Pytorch-Autograd.ipynb)
+- [ ] [Notebook: Optimization](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks//3-Pytorch-Optimizers.ipynb)
+- [ ] [Notebook: Network modules](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks//4-Pytorch-Modules.ipynb)
+- [ ] [Notebook: Datasets and Dataloaders](https://colab.research.google.com/github/davidbau/how-to-read-pytorch/blob/master/notebooks//5-Pytorch-Dataloader.ipynb)
+- [ ] [Documentation: Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/latest/)
+- [ ] [Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
+- [ ] [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+- [ ] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- [ ] [Youtube: PyTorch Lightning 101](https://www.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
+  - [ ] [Training a classification model on MNIST with PyTorch](https://youtu.be/OMDn66kM9Qc?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
+  - [ ] [From PyTorch to PyTorch Lightning](https://youtu.be/DbESHcCoWbM?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
+  - [ ] [Lightning Data Modules](https://youtu.be/L---MBeSXFw)
+  - [ ] [PyTorch Dropout, Batch size and interactive debugging](https://youtu.be/vD5iQkdqMqU)
+  - [ ] [Episode 4: Implementing a PyTorch Trainer: PyTorch Lightning Trainer and callbacks under-the-hood](https://www.youtube.com/watch?v=tgp56S2eGFE)
+- [ ] [Youtube: SimCLR with PyTorch Lightning](https://www.youtube.com/playlist?list=PLaMu-SDt_RB4k8VXiB3hOdsn0Y3GoXo1k)
+- [ ] [Youtube: PyTorch Performance Tuning Guide](https://youtu.be/9mS1fIYj1So) `26:41:00`
+- [ ] [Youtube: Skin Cancer Detection with PyTorch](https://www.youtube.com/playlist?list=PLUH_l3HbfEW0wP7ZOKUxmlnG6sntCQpHX)
+    - [ ] [[PART 1] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=6LdS9n_L7u4) `0:10:21`
+    - [ ] [[PART 2] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=wspdT8hRCWs) `0:21:57`
+    - [ ] [[PART 3] Skin Cancer Detection with PyTorch](https://www.youtube.com/watch?v=zFqsuXs6-Us) `0:22:24`
+- [ ] [Youtube: Learn with Lightning](https://www.pytorchlightning.ai/tutorials)
+- [ ] [Youtube: PyTorch Tutorial - RNN & LSTM & GRU - Recurrent Neural Nets](https://www.youtube.com/watch?v=0_PgWWmauHk) `00:15:51`
+- [ ] [Youtube: Pytorch Zero to All](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)
+    - [ ] [PyTorch Lecture 01: Overview](https://www.youtube.com/watch?v=SKq-pmkekTk) `0:10:18`
+    - [ ] [PyTorch Lecture 02: Linear Model](https://www.youtube.com/watch?v=l-Fe9Ekxxj4) `0:12:52`
+    - [ ] [PyTorch Lecture 03: Gradient Descent](https://www.youtube.com/watch?v=b4Vyma9wPHo) `0:08:24`
+    - [ ] [PyTorch Lecture 04: Back-propagation and Autograd](https://www.youtube.com/watch?v=ma2KXWblllc) `0:15:25`
+    - [ ] [PyTorch Lecture 05: Linear Regression in the PyTorch way](https://www.youtube.com/watch?v=113b7O3mabY) `0:11:50`
+    - [ ] [PyTorch Lecture 06: Logistic Regression](https://www.youtube.com/watch?v=GAKTBQn7yKo) `0:10:41`
+    - [ ] [PyTorch Lecture 07: Wide and Deep](https://www.youtube.com/watch?v=Mf8jna42p2M) `0:10:37`
+    - [ ] [PyTorch Lecture 08: PyTorch DataLoader](https://www.youtube.com/watch?v=zN49HdDxHi8) `0:06:41`
+    - [ ] [PyTorch Lecture 09: Softmax Classifier](https://www.youtube.com/watch?v=lvNdl7yg4Pg) `0:18:47`
+    - [ ] [PyTorch Lecture 10: Basic CNN](https://www.youtube.com/watch?v=LgFNRIFxuUo) `0:15:52`
+    - [ ] [PyTorch Lecture 11: Advanced CNN](https://www.youtube.com/watch?v=hqYfqNAQIjE) `0:12:58`
+    - [ ] [PyTorch Lecture 12: RNN1 - Basics](https://www.youtube.com/watch?v=ogZi5oIo4fI) `0:28:47`
+    - [ ] [PyTorch Lecture 13: RNN 2 - Classification](https://www.youtube.com/watch?v=1vGOQAel2yU) `0:17:22`
+- [ ] [PyTorch Developer Day 2020 | Full Livestream](https://www.youtube.com/watch?v=jaPVoObpdO0)
+- [ ] [Youtube: Lightning Chat: How a Grandmaster Won a Kaggle Competition Using Pytorch Lightning](https://www.youtube.com/watch?app=desktop&v=0HQCK_l-njI)

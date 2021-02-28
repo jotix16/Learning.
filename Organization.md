@@ -1,0 +1,182 @@
+
+### Be able to experiment in a notebook
+- [ ] [Article: Securely storing configuration credentials in a Jupyter Notebook](http://veekaybee.github.io/2020/02/25/secrets/)
+- [ ] [Article: Automatically Reload Modules with %autoreload](https://switowski.com/blog/ipython-autoreload)
+- [ ] [Calmcode: ipywidgets](https://calmcode.io/ipywidgets/introduction.html)
+- [ ] [Documentation: Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
+- [ ] [Pluralsight: Getting Started with Jupyter Notebook and Python](https://www.pluralsight.com/courses/jupyter-notebook-python)
+- [ ] [Youtube: William Horton - A Brief History of Jupyter Notebooks](https://www.youtube.com/watch?v=kFhhCOeYcGw)
+- [ ] [Youtube: I Like Notebooks](https://www.youtube.com/watch?v=9Q6sLbz37gk)
+- [ ] [Youtube: I don't like notebooks.- Joel Grus (Allen Institute for Artificial Intelligence)](https://www.youtube.com/watch?v=7jiPeIFXb6U)
+- [ ] [Youtube: Ryan Herr - After model.fit, before you deploy| JupyterCon 2020](https://www.youtube.com/watch?v=hGHwu1h3l6g)
+- [ ] [Youtube: nbdev live coding with Hamel Husain](https://www.youtube.com/watch?v=ZJTop5uqC2U&feature=youtu.be)
+- [ ] [Youtube: How to Use JupyterLab](https://www.youtube.com/watch?v=A5YyoCKxEOU&feature=emb_logo)
+
+### Be able to efficiently use a text editor
+- [ ] [Article: Work remotely with PyCharm, TensorFlow and SSH](https://medium.com/@erikhallstrm/work-remotely-with-pycharm-tensorflow-and-ssh-c60564be862d)
+- [ ] [Article: Python remote debugging with PyCharm, CUDA, and Conda](https://medium.com/@n1r44/python-remote-debugging-with-pycharm-cuda-and-conda-87d27695634c)
+- [ ] [Article: How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin)
+- [ ] [Article: Docker as Remote Interpreter for PyCharm Professional](https://www.inovex.de/blog/docker-remote-interpreter-pycharm-professional/)
+- [ ] [Learn Enough Text Editor to Be Dangerous](https://www.learnenough.com/text-editor-tutorial)
+- [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
+- [ ] [Video: Pycharm Tips](https://www.jetbrains.com/pycharm/guide/tips/)
+- [ ] [Youtube: Productive pytest with PyCharm](https://www.youtube.com/watch?v=ixqeebhUa-w)
+- [ ] [Youtube: Getting Started with Python in Visual Studio Code](https://www.youtube.com/watch?v=7EXd4_ttIuw)
+- [ ] [Youtube: 42 PyCharm Tips and Tricks](https://www.youtube.com/watch?v=NoDx0MEESDw&list=PLQ176FUIyIUbDwdvWZNuB7FrCc6hHregy&index=35)
+- [ ] [Youtube: Pycharm Quick Tips & Tricks](https://www.youtube.com/playlist?list=PLCTHcU1KoD99eyuXqUJHZy90-9jU2H2Y2)
+	- [ ] [How to use Live Edit to edit HTML&CSS in PyCharm](https://www.youtube.com/watch?v=xf90Ko64hRc) `0:00:49`
+	- [ ] [How to let PyCharm install and generate the imports while you write a symbol](https://www.youtube.com/watch?v=ulT1LSWFqqE) `0:00:35`
+	- [ ] [How to enforce One Import Per Line in PyCharm](https://www.youtube.com/watch?v=XB4SnJ4XmUs) `0:00:39`
+	- [ ] [How to optimize imports in PyCharm](https://www.youtube.com/watch?v=lNm5ISUZqCE) `0:01:15`
+	- [ ] [How to use the navigation bar to move around your project tree in PyCharm](https://www.youtube.com/watch?v=JQE95x7t4aU) `0:01:09`
+	- [ ] [How to use Recent Files to open the tool window in PyCharm](https://www.youtube.com/watch?v=ITV0HRKYnXI) `0:00:43`
+	- [ ] [How to navigate to symbol using the keyboard in PyCharm](https://www.youtube.com/watch?v=1QoP0U8xg98) `0:00:41`
+	- [ ] [How to navigate the cursor position back and forth in PyCharm](https://www.youtube.com/watch?v=_i2gYYfC9H0) `0:00:48`
+	- [ ] [How to use the 'find action' shortcut in PyCharm](https://www.youtube.com/watch?v=ESYmaaX5Tzg) `0:01:40`
+	- [ ] [How to activate the navigation bar in PyCharm](https://www.youtube.com/watch?v=-uyCSK6gvp4) `0:01:36`
+	- [ ] [How to navigate to file using the keyboard in PyCharm](https://www.youtube.com/watch?v=0NFMM143Y5w) `0:00:58`
+	- [ ] [How to open a file using the keyboard in PyCharm](https://www.youtube.com/watch?v=37n-a4mg36Q) `0:01:03`
+	- [ ] [How to use speed search to navigate files in PyCharm](https://www.youtube.com/watch?v=i9l5YuDgJOw) `0:01:07`
+	- [ ] [How to activate the navigation bar and create a file in PyCharm](https://www.youtube.com/watch?v=h6s20RMLIXk) `0:01:09`
+	- [ ] [How to use the find in path dialog in PyCharm](https://www.youtube.com/watch?v=AlFEEDMpW8c) `0:00:50`
+	- [ ] [How to use drag-n-drop to create a SQLite database in PyCharm](https://www.youtube.com/watch?v=U2sAgysf1Hc) `0:00:40`
+	- [ ] [How to evaluate expressions during debugging in PyCharm](https://www.youtube.com/watch?v=zoSKHJdrSfI) `0:01:13`
+	- [ ] [How to add conditions to your breakpoints in PyCharm](https://www.youtube.com/watch?v=aIlXb2QpxXc) `0:01:33`
+	- [ ] [How to use refactor to rename a file and its references in PyCharm](https://www.youtube.com/watch?v=IqPm9RYTNBM) `0:01:06`
+	- [ ] [How to quickly view parameter information in PyCharm](https://www.youtube.com/watch?v=hfWhDwp7zz8) `0:00:38`
+	- [ ] [How to view arguments and documentation without interrupting your flow](https://www.youtube.com/watch?v=etvFP6kXsmo) `0:01:08`
+	- [ ] [How to make and extend selections in PyCharm](https://www.youtube.com/watch?v=mvZg7TaRjCM) `0:00:39`
+	- [ ] [How to reformat your code in PyCharm](https://www.youtube.com/watch?v=0WfDm3KQ-Cw) `0:00:46`
+	- [ ] [How to smart-add a new line in PyCharm](https://www.youtube.com/watch?v=pHmv6RzKrDk) `0:01:03`
+	- [ ] [How to split the screen in PyCharm](https://www.youtube.com/watch?v=VcqbOtn1s0w) `0:01:35`
+	- [ ] [How to get PyCharm adding fields in a constructor for you](https://www.youtube.com/watch?v=eJW507pl4qk) `0:00:47`
+	- [ ] [How to use refactoring to rename symbols in PyCharm](https://www.youtube.com/watch?v=cJ0tP9kxoYk) `0:01:13`
+	- [ ] [How to avoid disasters by using the local history in PyCharm](https://www.youtube.com/watch?v=hoCkDQCfjwM) `0:01:21`
+	- [ ] [How to run your project from the keyboard in PyCharm](https://www.youtube.com/watch?v=oSEMKeUVjlE) `0:01:21`
+	- [ ] [How to disable tabs in PyCharm](https://www.youtube.com/watch?v=k7P__ZhUv-g) `0:00:55`
+	- [ ] [How to speed up coverage in PyCharm](https://www.youtube.com/watch?v=OCH_gPfrvzw) `0:01:34`
+	- [ ] [How to enable auto-run for your tests in PyCharm](https://www.youtube.com/watch?v=4kHncS_gPX0) `0:01:45`
+	- [ ] [How to run a single test in PyCharm](https://www.youtube.com/watch?v=-3SS0s-Y420) `0:01:08`
+	- [ ] [How to use the gutter to quickly spot missing tests in PyCharm](https://www.youtube.com/watch?v=HQ_bqOBXZ5w) `0:01:06`
+	- [ ] [How to reword a commit message in PyCharm](https://www.youtube.com/watch?v=3JSyNP1JRxA) `0:00:49`
+	- [ ] [How to do partial commits in PyCharm](https://www.youtube.com/watch?v=NQ-q361wD9Q) `0:01:01`
+	- [ ] [How to put a project under version control in PyCharm](https://www.youtube.com/watch?v=36RFkThiZug) `0:01:08`
+	- [ ] [How to get started with a repository from GitHub in PyCharm](https://www.youtube.com/watch?v=ukbvdF5wqPQ) `0:01:07`
+	- [ ] [How to undo the last commit in PyCharm](https://www.youtube.com/watch?v=R5L5fZi_ldg) `0:00:52`
+	- [ ] [How to quickly show your npm scripts in PyCharm](https://www.youtube.com/watch?v=Nv5vO2loJ_c) `0:01:25`
+	- [ ] [How to use 'surround with' to insert elements in PyCharm](https://www.youtube.com/watch?v=GK7DEI6zOB8) `0:01:11`
+
+### Be able to structure machine learning projects
+- [ ] [Article: I trained a model. What is next?](https://ternaus.blog/tutorial/2020/08/28/Trained-model-what-is-next.html)
+- [ ] [Article: pydantic](https://towardsdatascience.com/pydantic-688e897cfd3a)
+- [ ] [Article: Always start with a stupid model, no exceptions.](https://mlpowered.com/posts/start-with-a-stupid-model/)
+- [ ] [Article: Organizing machine learning projects: project management guidelines](https://www.jeremyjordan.me/ml-projects-guide/)
+- [ ] [Article: Most impactful AI trends of 2018: the rise of ML Engineering](https://mlpowered.com/posts/2019-ml-trends/)
+- [ ] [Article: Building machine learning products: a problem well-defined is a problem half-solved.](https://www.jeremyjordan.me/ml-requirements/)
+- [ ] [Article: Simple considerations for simple people building fancy neural networks](https://medium.com/huggingface/simple-considerations-for-simple-people-building-fancy-neural-networks-7abc3c0f0bd7)
+- [ ] [Article: Logging and Debugging in Machine Learning - How to use Python debugger and the logging module to find errors in your AI application](https://theaisummer.com/logging-debugging/)
+- [ ] [Article: How to Unit Test Deep Learning: Tests in TensorFlow, mocking and test coverage](https://theaisummer.com/unit-test-deep-learning/)
+- [ ] [Article: Best practices to write Deep Learning code: Project structure, OOP, Type checking and documentation](https://theaisummer.com/best-practices-deep-learning-code/)
+- [ ] [Article: Deep Learning in Production: Laptop set up and system design](https://theaisummer.com/deep-learning-production/)
+- [ ] [Article: Configuring Google Colab Like A Pro](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
+- [ ] [Article: Stop using print, start using loguru in Python](https://handyman.dulare.com/stop-using-print-start-using-loguru-in-python/)
+- [ ] [Coursera: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+- [ ] [Datacamp: Conda Essentials](https://www.datacamp.com/courses/conda-essentials)
+- [ ] [Datacamp: Conda for Building & Distributing Packages](https://www.datacamp.com/courses/conda-for-building-distributing-packages)
+- [ ] [Datacamp: Creating Robust Python Workflows](https://www.datacamp.com/courses/creating-robust-python-workflows)
+- [ ] [Datacamp: Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
+- [ ] [Datacamp: Designing Machine Learning Workflows in Python](https://www.datacamp.com/courses/designing-machine-learning-workflows-in-python)
+- [ ] [Datacamp: Object-Oriented Programming in Python](https://www.datacamp.com/courses/object-oriented-programming-in-python)
+- [ ] [Datacamp: Command Line Automation in Python](https://www.datacamp.com/courses/command-line-automation-in-python)
+- [ ] [Datacamp: Introduction to Data Engineering](https://www.datacamp.com/courses/introduction-to-data-engineering)
+- [ ] [Datacamp: Experimental Design in Python](https://www.datacamp.com/courses/experimental-design-in-python)
+- [ ] [Full Stack Deep Learning Bootcamp: March 2019](https://fullstackdeeplearning.com/march2019)
+  - [ ] [Lecture 1: Introduction to Deep Learning](https://youtu.be/5AjG5OPQuBM)
+  - [ ] [Lecture 2: Setting Up Machine Learning Projects](https://youtu.be/tBUK1_cHu-8)
+  - [ ] [Lecture 3: Introduction to the Text Recognizer Project](https://youtu.be/mmlvGLSXKLc)
+  - [ ] [Lecture 4: Infrastructure and Tooling](https://youtu.be/f6jAz1zyrDI)
+  - [ ] [Lecture 5: Tracking Experiments](https://youtu.be/Eiz1zcqrqw0)
+  - [ ] [Lecture 6: Data Management](https://youtu.be/T5jv8-xZhZI)
+  - [ ] [Lecture 7: Machine Learning Teams](https://youtu.be/Qb3RhwNb4EM)
+  - [ ] [Lecture 9: Lukas Biewald](https://youtu.be/25_kBogrzrs)
+  - [ ] [Lecture 10: Troubleshooting Deep Neural Networks](https://youtu.be/GwGTwPcG0YM)
+  - [ ] [Lecture 11: Labs 6-9: Detection, Data Labeling, Testing and Deployment](https://youtu.be/JTSwQu0OyGs)
+  - [ ] [Lecture 12: Testing and Deployment](https://youtu.be/nu7h1zdKPd0)
+  - [ ] [Lecture 13: Research Directions](https://youtu.be/vF7UgqaegVI)
+  - [ ] [Lecture 14: Jeremy Howard](https://youtu.be/hZd3X_nGdew)
+  - [ ] [Lecture 15: Richard Socher](https://youtu.be/yvMgcLKuvVg)
+  - [ ] [Guest Lecture - Chip Huyen - Machine Learning Interviews - Full Stack Deep Learning](https://youtu.be/pli1K75PSa8)
+- [ ] [MIT: The Missing Semester of CS Education](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+	- [ ] [Lecture 1: Course Overview + The Shell (2020)](https://www.youtube.com/watch?v=Z56Jmr9Z34Q) `0:48:16`
+	- [ ] [Lecture 2: Shell Tools and Scripting (2020)](https://www.youtube.com/watch?v=kgII-YWo3Zw) `0:48:55`
+	- [ ] [Lecture 3: Editors (vim) (2020)](https://www.youtube.com/watch?v=a6Q8Na575qc) `0:48:26`
+	- [ ] [Lecture 4: Data Wrangling (2020)](https://www.youtube.com/watch?v=sz_dsktIjt4) `0:50:03`
+	- [ ] [Lecture 5: Command-line Environment (2020)](https://www.youtube.com/watch?v=e8BO_dYxk5c) `0:56:06`
+	- [ ] [Lecture 6: Version Control (git) (2020)](https://www.youtube.com/watch?v=2sjqTHE0zok) `1:24:59`
+	- [ ] [Lecture 7: Debugging and Profiling (2020)](https://www.youtube.com/watch?v=l812pUnKxME) `0:54:13`
+	- [ ] [Lecture 8: Metaprogramming (2020)](https://www.youtube.com/watch?v=_Ms1Z4xfqv4) `0:49:52`
+	- [ ] [Lecture 9: Security and Cryptography (2020)](https://www.youtube.com/watch?v=tjwobAmnKTo) `1:00:59`
+	- [ ] [Lecture 10: Potpourri (2020)](https://www.youtube.com/watch?v=JZDt-PRq0uo) `0:57:54`
+	- [ ] [Lecture 11: Q&A (2020)](https://www.youtube.com/watch?v=Wz50FvGG6xU) `0:53:52`
+- [ ] [Treehouse: Object Oriented Python](https://teamtreehouse.com/library/objectoriented-python-2)
+- [ ] [Treehouse: Setup Local Python Environment](https://teamtreehouse.com/library/setting-utorialtorialp-a-local-python-environment-windows)
+- [ ] [Udacity: Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777)
+- [ ] [Youtube: Weights and Biases Tutorial](https://www.youtube.com/playlist?list=PLD80i8An1OEE0xs5BjKpCBdm0aaDI00U9)
+- [ ] [Youtube: Integrate Weights & Biases with PyTorch](https://www.youtube.com/watch?v=G7GH0SeNBMA&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=2)
+- [ ] [Youtube: Log (Almost) Anything with Weights & Biases](https://www.youtube.com/watch?v=96MxRvx15Ts&list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk&index=3)
+- [ ] [Youtube: MLOps Tutorials](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
+    - [ ] [MLOps Tutorial #1: Intro to Continuous Integration for ML](https://youtu.be/9BgIDqAzfuA?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `17:44:00`
+    - [ ] [MLOps Tutorial #2: When data is too big for Git](https://youtu.be/kZKAuShWF0s?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `10:51:00`
+    - [ ] [MLOps Tutorial #3: Track ML models with Git & GitHub Actions](https://youtu.be/xPncjKH6SPk?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) `14:12:00`
+- [ ] [Youtube: Data Engineering + ML + Software Engineering // Satish Chandra Gupta // MLOps Coffee Sessions #16](https://www.youtube.com/watch?v=IUhvO8QjWd8&list=LL&index=2)
+- [ ] [Youtube: OO Design and Testing Patterns for Machine Learning with Chris Gerpheide](https://www.youtube.com/watch?v=VuQaS0FFUFY)
+- [ ] [Youtube: MLSys Seminars Fall 2020](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
+    - [ ] [Stanford MLSys Seminar Episode 0: ML + Systems](https://www.youtube.com/watch?v=OEiNnfdxBRE) `0:11:49`
+    - [ ] [Stanford MLSys Seminar Episode 1: Marco Tulio Ribeiro](https://www.youtube.com/watch?v=VqiTtdY58Ts) `1:00:38`
+    - [ ] [Stanford MLSys Seminar Episode 2: Matei Zaharia](https://www.youtube.com/watch?v=nCQ9WqXPIS4) `0:59:44`
+    - [ ] [Stanford MLSys Seminar Episode 3: Virginia Smith](https://www.youtube.com/watch?v=laCyJICLyWg) `1:00:55`
+    - [ ] [Stanford MLSys Seminar Episode 4: Alex Ratner](https://www.youtube.com/watch?v=pDVV4zKNqIE) `1:13:34`
+    - [ ] [Stanford MLSys Seminar Episode 5: Chip Huyen](https://www.youtube.com/watch?v=c_AUuTuPA5k) `1:06:44`
+
+### Be able to utilize version control
+- [ ] [Article: Mastering Git Stash Workflow](https://dev.to/yankee/mastering-git-stash-workflow-223)
+- [ ] [Article: How to Become a Master of Git Tags](https://blog.daftcode.pl/how-to-become-a-master-of-git-tags-b70fbd9609d9)
+- [ ] [Article: How to track large files in Github / Bitbucket? Git LFS to the rescue](https://pgaijin66.medium.com/how-to-track-large-files-in-github-bitbucket-git-lfs-to-the-rescue-2f298e07b3d2)
+- [ ] [Article: Keep your git directory clean with `git clean` and `git trash`](https://coderwall.com/p/g16jpq/keep-your-git-directory-clean-with-git-clean-and-git-trash)
+- [ ] [Codecademy: Learn Git](https://www.codecademy.com/learn/learn-git)
+- [ ] [Code School: Git Real](https://www.pluralsight.com/courses/code-school-git-real)
+- [ ] [Datacamp: Introduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+- [ ] [Learn enough git to be dangerous](http://learnenough.com/git-tutorial)
+- [ ] [Learn Git Branching](https://learngitbranching.js.org)
+- [ ] [Thoughtbot: Mastering Git](https://thoughtbot.com/upcase/mastering-git)
+- [ ] [Udacity: GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+- [ ] [Udacity: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- [ ] [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [ ] [Youtube: 045 Introduction to Git LFS](https://youtu.be/xPFLAAhuGy0)
+
+### Be able to use data version control
+- [ ] [Youtube: DVC Basics](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDb0qdPl9-KEStsL-3oaEjg)
+	- [ ] [Versioning Data with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=kLKBcPonMYw) `0:13:04`
+	- [ ] [Sharing Data and Models with DVC (Hands-On Data Science Tutorial!)](https://www.youtube.com/watch?v=EE7Gk84OZY8) `0:08:53`
+	- [ ] [Machine Learning Pipelines with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=71IGzyH95UY) `0:10:04`
+	- [ ] [Machine Learning Experiments with DVC (Hands-On Tutorial!)](https://www.youtube.com/watch?v=iduHPtBncBk) `0:07:29`
+
+### Be able to use the command line
+- [ ] [Article: Streamline your projects using Makefile](https://dev.to/yankee/streamline-projects-using-makefile-28fe)
+- [ ] [Calmcode: makefiles](https://calmcode.io/makefiles/the-problem.html)
+- [ ] [Calmcode: entr](https://calmcode.io/entr/introduction.html)
+- [ ] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+- [ ] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+- [ ] [Datacamp: Introduction to Bash Scripting](https://www.datacamp.com/courses/introduction-to-bash-scripting)
+- [ ] [Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)
+- [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
+- [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
+- [ ] [Thoughtbot: Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
+- [ ] [Thoughtbot: tmux](https://thoughtbot.com/upcase/tmux)
+- [ ] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- [ ] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+- [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
+- [ ] [Youtube: GNU Parallel](https://www.youtube.com/playlist?list=PL284C9FF2488BC6D1)
+
+
+
