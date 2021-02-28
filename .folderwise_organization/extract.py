@@ -35,7 +35,7 @@ def handle_readme(readme):
 
 # Read READNE.md file we are reading from
 os.system('rm *.md')
-file_ = open('../README.md','r') # reade
+file_ = open('README.md','r') # reade
 data = file_.read()
 file_.close()
 
