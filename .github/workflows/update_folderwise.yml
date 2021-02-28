@@ -20,14 +20,15 @@ jobs:
       uses: dawidd6/action-delete-branch@v3
       with:
         github_token: ${{github.token}}
-        branches: folderwise2
+        branches: folderwise
     - name: Commit and push if README changed
       run: |-
         git config --global user.email "readme-bot@example.com"
         git config --global user.name "README-bot"
-        git checkout folderwise2
-        git push --set-upstream origin folderwise2
-        git pull folderwise2
+        git branch folderwise
+        git checkout folderwise
+        git push --set-upstream origin folderwise
+        git pull folderwise
         mv .folderwise_organization/extract.py .
         python extract.py
         rm extract.py
