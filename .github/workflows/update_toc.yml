@@ -17,8 +17,7 @@ jobs:
     - name: Update TOC
       run: npx markdown-toc README.md -i
     - name: Update Folderwise organization
-      run: cd .folderwise_organization
-      run: python extract.py
+      run: cd .folderwise_organization && python extract.py
     - name: Commit and push if README changed
       run: |-
         git diff
