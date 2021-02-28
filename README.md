@@ -1,6 +1,6 @@
 # Learning.[](https://hits.dwyl.com/amitness/learning.svg)
 
-**Check branch folderwise for another view**
+**Check branch folderwise for folderwise view**
 
 **Learning Philosophy**:
 - [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)
