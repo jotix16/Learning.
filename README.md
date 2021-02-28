@@ -1,4 +1,4 @@
-# Learning.[](https://hits.dwyl.com/amitness/learning.svg)
+# Learning.
 
 
 **Learning Philosophy**:
