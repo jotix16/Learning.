@@ -21,6 +21,7 @@ jobs:
         git config --global user.name "README-bot"
         git branch folderwise
         git checkout folderwise
+        git push --set-upstream origin folderwise
         git merge master
         python .folderwise_organization/extract.py
         git add -A
