@@ -1,6 +1,5 @@
 # Learning.
 
-
 **Learning Philosophy**:
 - [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)
 - [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines)
