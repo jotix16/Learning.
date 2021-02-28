@@ -3,7 +3,7 @@ name: Update README table of contents
 on:
   push:
     branches:
-
+    - folderwise
     - master
     paths:
     - README.md
