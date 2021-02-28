@@ -23,6 +23,7 @@ jobs:
         git branch folderwise2
         git checkout folderwise2
         git push --set-upstream origin folderwise2
+        git pull folderwise2
         mv .folderwise_organization/extract.py .
         python extract.py
         rm extract.py
