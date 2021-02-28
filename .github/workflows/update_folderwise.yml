@@ -3,7 +3,6 @@ name: Update README table of contents
 on:
   push:
     branches:
-    - folderwise
     - master
     paths:
     - README.md
@@ -28,11 +27,11 @@ jobs:
         git branch folderwise
         git checkout folderwise
         git push --set-upstream origin folderwise
-        git pull folderwise
         mv .folderwise_organization/extract.py .
         python extract.py
         rm extract.py
-        git add -A || git commit -a -m "Update folderwise"
+        git add -A
+        git commit -a -m "Update folderwise"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
