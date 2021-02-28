@@ -1,5 +1,5 @@
 # Learning.[](https://hits.dwyl.com/amitness/learning.svg)
-
+**Check .folderwise_organization for another view
 
 **Learning Philosophy**:
 - [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement)
