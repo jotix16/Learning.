@@ -38,7 +38,7 @@ file_ = open('README.md','r') # reade
 data = file_.read()
 file_.close()
 
-os.system('rm *.md')
+os.system('rm README.md')
 
 # Part that is going to README.md
 splitData = data.split("\n## ")

@@ -21,9 +21,11 @@ jobs:
         git config --global user.email "readme-bot@example.com"
         git config --global user.name "README-bot"
         git branch folderwise2
+        git checkout folderwise2
         git push --set-upstream origin folderwise2
         mv .folderwise_organization/extract.py .
         python extract.py
+        rm extract.py
         git add -A || git commit -a -m "Update folderwise"
     - name: Push changes
       uses: ad-m/github-push-action@master
