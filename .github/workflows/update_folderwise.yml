@@ -14,12 +14,6 @@ jobs:
     steps:
     - name: Check out repo
       uses: actions/checkout@v
-    - name: Copy branch
-      uses: peterjgrainger/action-create-branch@v2.0.1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        branch: 'folderwise2'
     - name: Update TOC
       run: npx markdown-toc README.md -i
     - name: Commit and push if README changed
