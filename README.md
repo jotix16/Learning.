@@ -60,6 +60,7 @@
   * [Be able to implement models using cloud services](#be-able-to-implement-models-using-cloud-services)
   * [Be able to frame an ML problem](#be-able-to-frame-an-ml-problem)
 - [Testing](#testing)
+  * [Be able to document a python project](#be-able-to-document-a-python-project)
   * [Be able to write unit tests](#be-able-to-write-unit-tests)
   * [Be able to write unit tests](#be-able-to-write-unit-tests-1)
   * [Be able to perform load testing](#be-able-to-perform-load-testing)
