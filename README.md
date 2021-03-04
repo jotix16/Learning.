@@ -2288,6 +2288,8 @@
 - [ ] [Youtube: Vincent Warmerdam - Playing by the Rules-Based-Systems | PyData Eindhoven 2020](https://www.youtube.com/watch?v=nJAmN6gWdK8&ab_channel=PyData)
 
 ## Testing
+### Be able to document a python project
+- [ ] [Tutorial: Shinx Python TriangleLib](https://github.com/leimao/Sphinx-Python-TriangleLib)
 ### Be able to write unit tests
 - [ ] [Article: Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml)
 - [ ] [Article: Unit Testing for Data Scientists](https://www.maartengrootendorst.com/blog/unit/)
